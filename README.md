@@ -171,9 +171,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- [on2pdf.pdf](https://github.com/Harinimuthu17/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/files/11554866/on2pdf.pdf)
+![image](https://github.com/Harinimuthu17/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/130278614/28d7c243-4bb4-4225-8723-b0764cb17373)
+![image](https://github.com/Harinimuthu17/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/130278614/8b044b79-09ef-44d6-9b9d-b58f9238fff8)
 
-[of222pdf.pdf](https://github.com/Harinimuthu17/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/files/11554874/of222pdf.pdf)
 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
